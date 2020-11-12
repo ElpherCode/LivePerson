@@ -1,3 +1,3 @@
   
 [config]
-project = %DEPLOYMENT_SOURCE%/experimental/handoff-library/csharp_dotnetcore/samples/LivePersonProxyBot/
+project = /experimental/handoff-library/csharp_dotnetcore/samples/LivePersonProxyBot/
